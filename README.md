@@ -8,18 +8,6 @@ A hands-on collection of AI agent, automation, and generative AI projects — co
 
 Most of my work sits at the intersection of **agentic AI systems** and **practical automation for SMEs** — from multi-agent business tools to Darija-language voice assistants. This repo is where that work lives: real projects, real architecture decisions, and real trade-offs, documented as I build.
 
-## What's inside
-
-| Project | Description | Stack |
-|---|---|---|
-| `kryon-cortex` | AI chat interface for a lead-generation SaaS — LangGraph harness agent, RAG over MongoDB, memory-aware conversation | LangGraph, MongoDB, Next.js |
-| `hisab-ai` | AI accounting assistant for Moroccan SMEs — WhatsApp/Telegram automation, OCR invoice processing | n8n, Twilio, Claude Vision API, Supabase |
-| `atlas-fitness-agent` | Darija-language fitness coaching multi-agent system with local LLM + RAG | n8n, Ollama, Supabase pgvector |
-| `agrinova` | Agricultural quality classification agent pipeline (dates, citrus, olives) | YOLOv8, agent orchestration |
-| *(more added as built)* | | |
-
-Each project folder has its own README with setup instructions, architecture notes, and demo material.
-
 ## Core themes across this repo
 
 - **Multi-agent orchestration** — using LangGraph to coordinate specialized agents (routing, tool use, memory)
