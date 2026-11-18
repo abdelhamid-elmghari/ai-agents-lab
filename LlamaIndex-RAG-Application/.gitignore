@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables & secrets
+.env
+.env.local
+*.key
+
+# Streamlit
+.streamlit/secrets.toml
+
+# LlamaIndex local storage context (indices, vector store, docstore)
+storage/
+.cache/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# User-specific extracted files (keep data/sample.txt)
+data/linkedin_profile.txt

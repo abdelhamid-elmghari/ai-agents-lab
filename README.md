@@ -16,6 +16,14 @@ Most of my work sits at the intersection of **agentic AI systems** and **practic
 - **MCP (Model Context Protocol)** — wrapping external APIs and tools for agent use
 - **Localization-first design** — Darija/Arabic-first interfaces, built for the Moroccan and MENA market
 
+## 📂 Projects in this Lab
+
+| Project | Tech Stack | Description |
+|---|---|---|
+| **[AI-Powered Data Analyst Agent](./AI-Powered%20Data%20Analyst%20Agent)** | LangChain, LangGraph, scikit-learn | Conversational agent that analyzes CSV datasets using tool calling, generates summaries, visualizations, and evaluates ML models. |
+| **[LlamaIndex RAG & Icebreaker Bot](./LlamaIndex-RAG-Application)** | LlamaIndex, Meta Llama (OpenRouter), HuggingFace | Modular RAG pipeline for local document Q&A and LinkedIn profile analysis with automatic icebreaker fact synthesis. |
+
+
 
 
 
